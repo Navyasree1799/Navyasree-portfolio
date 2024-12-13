@@ -43,7 +43,7 @@ const about={
 
 const experience={
     icon: '/assests/resume/badge.svg',
-    title: 'My Experences',
+    title: 'My Experience',
     description: 
     " I've worked with top tech companies, gaining hands-on experience in building web applications using React, Angular, and Node.js. From front-end design to API integrations, I've honed my skills in creating user-friendly solutions and collaborating with talented teams to bring projects to life.",
     items: [

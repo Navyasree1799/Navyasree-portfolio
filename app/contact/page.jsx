@@ -33,7 +33,7 @@ const info =[
     <div className="xl:h-[54%] order-2 xl:order-none"> 
         <form className="flex flex-col gap-6 p-10 bg-[#27272c] rounded-xl" > 
         <h3 className="text-4xl text-pink-600"> Let's work together </h3>
-        <p className="text-white/60"> Looking to collaborate on exciting projects? Let's create something amazing together! Reach out to explore opportunities to work together.</p>
+        <p className="text-white/60"> Looking to collaborate on exciting projects? Let's create something amazing together! Reach out to explore opportunities to work together.Best and fastest way to reach me would be Email. </p>
         <div className="grid grid-cols-1 md:grid-colss-2 gap-6">
             <Input type="Firstname" placeholder="Firstname" />
             <Input type="Lastname" placeholder="Lastname" />
